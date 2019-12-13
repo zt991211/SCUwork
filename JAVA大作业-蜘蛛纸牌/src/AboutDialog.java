@@ -16,7 +16,7 @@ public class AboutDialog extends JDialog
 	private JPanel jPanel2 = new JPanel();
 
 	private JTextArea jt1 = new JTextArea("将电脑多次分发给你的牌按照相同的花色由大至小排列起来。直到桌面上的牌全都消失。"); 
-	private JTextArea jt2 = new JTextArea("该游戏中，纸牌的图片来自于Windows XP的纸牌游戏，图片权属于原作者所有！"); 
+	private JTextArea jt2 = new JTextArea("由于该项目耗时挺多，希望大家在开源学习的时候多多支持下！");
 
 	/*
 	 **构造函数
